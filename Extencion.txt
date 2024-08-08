@@ -1,0 +1,51 @@
+### My 20 extencion fav
+
+1 -> Auto Rename Tag 
+
+2 -> Better Comments 
+
+3 -> code Runner 
+
+4 -> color highlighting
+
+5 -> DoENV 
+
+6 -> EJS Language support
+
+7 -> Error Lens 
+
+8 -> EditorConfig for VS Code
+
+9 -> ESlint 
+
+10 -> GitLens — Git supercharged
+
+11 -> indent-rainbow
+
+12 -> JavaScript Booster
+
+13 -> IntelliSense for CSS class names in HTML
+
+14 -> Live Server
+
+15 -> Material Icon Theme or vscode-icons (ambos para icons) 
+
+16 -> Portuguese (Brazil) Language Pack for Visual Studio Code
+
+17 -> Prettier SQL VSCode
+
+18 -> Prisma
+
+19 -> Tabnine: AI Chat & Autocomplete for JavaScript, Python, Typescript, J
+
+20 -> Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript, Java, Go, and more
+
+
+### Json obrigatório 
+
+// -------------OBGT_ENTX -------------
+
+    "workbench.tree.indent": 20,
+    "explorer.compactFolders":false,
+
+//-------------------------------------
