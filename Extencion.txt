@@ -49,3 +49,5 @@
     "explorer.compactFolders":false,
 
 //-------------------------------------
+
+config -> word -> Editor: Word wrap (padão:off) md to (on)
